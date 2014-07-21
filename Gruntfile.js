@@ -56,6 +56,7 @@ module.exports = function(grunt) {
             'build/lib/js/plugins/darkroom.rotate.js',
             'build/lib/js/plugins/darkroom.crop.js',
             'build/lib/js/plugins/darkroom.save.js',
+            'build/lib/js/plugins/darkroom.expand.js',
             'build/lib/js/**/*.js'
           ]
         }
